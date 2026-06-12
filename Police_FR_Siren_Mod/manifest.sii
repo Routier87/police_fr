@@ -1,0 +1,10 @@
+SiiNunit
+{
+mod_package : police_fr_siren
+{
+ package_version: "1.0"
+ display_name: "Sirène de Police FR"
+ author: "Routier87"
+ category[]: "sound"
+}
+}

@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_addon_data : police_fr_siren
+{
+ name: "Sirène Police FR"
+ price: 50000
+}
+}
